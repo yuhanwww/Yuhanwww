@@ -1,4 +1,3 @@
-<img align="center" src="layered-waves.svg">
 <img width="800" src="name.svg">
 <h3> Maker/Designer | Art Creator | Artistic Swimmer | Dancer</h3>
 
