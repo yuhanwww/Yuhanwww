@@ -10,17 +10,16 @@
 <div>
   <h3>Things that I know well</h3>
   
-  ---
+---
   
   <div>
     <img src="https://skillicons.dev/icons?i=c,css,emacs,html,git,java,js,latex,ps,pr,py,ruby,sklearn,svg,tensorflow,w&theme=light&perline=15" />
   </div>
 </div>
-&nbsp;
 <div>
   <h3>Things that I find familiar</h3>
   
-  ---
+---
   
   <div>
     <img src="https://skillicons.dev/icons?i=ae,ai,angular,autocad,blender,cpp,figma,rails,threejs&theme=light&perline=13" />
