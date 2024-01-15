@@ -13,7 +13,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=c,css,emacs,html,git,java,js,latex,ps,pr,py,ruby,sklearn,svg,tensorflow,w&theme=light&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,css,emacs,html,git,java,js,latex,ps,pr,py,ruby,sklearn,svg,tensorflow,w&theme=light&perline=12" />
   </div>
 </div>
 <div>
