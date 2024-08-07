@@ -1,11 +1,14 @@
 <img width="800" src="name.svg">
 <h3> 👩‍💻Computer Science | 🖼️Art History | 🔨Maker | 🧶Art Creator | 🧜‍♀️Artistic Swimmer</h3>
 
-<h4> I am currently a junior at Smith College</h4>
-<h4> Feel free to reach out to say hi:)</h4>
+<h5> I am currently a senior at Smith College. Feel free to reach out to say hi:)</h5>
 <a href="mailto:ywang70@smith.edu">email</a> |  
 <a href="https://www.linkedin.com/in/yuhan-wang-yw/">linkedin</a> |
 <a href="https://www.instagram.com/yaaaarth/">instagram  </a>
+
+<h4>What's up with me now? --> <a href="https://github.com/yuhanwww/portfolio2.0"/>Updating my portfolio using React!</a></h4>
+
+<br/><br/>
 
 <div>
   <h3>Things that I know well</h3>
