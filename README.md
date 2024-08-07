@@ -26,7 +26,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=ae,ai,angular,autocad,blender,cpp,figma,rails,threejs&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,angular,autocad,blender,cpp,figma,rails,react,threejs&theme=light&perline=13" />
   </div>
 </div>
 </p>
