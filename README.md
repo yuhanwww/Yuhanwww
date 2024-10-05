@@ -7,7 +7,11 @@
 <a href="https://www.instagram.com/yaaaarth/">instagram  </a></h5>
 
 <br/>
-<h3>What's up with me now? --> <a href="https://github.com/yuhanwww/portfolio2.0"/>Updating my portfolio using React!</a></h3>
+<h3>What's up with me now?</h3>
+--> <a href="https://github.com/yuhanwww/open-access-is-great-but-where-are-the-images"/>Exploring the space that weaves Art History & Computer Science</a>                    
+<br>--> <a href="https://github.com/yuhanwww/portfolio2.0"/>Updating my portfolio using React!</a>
+<br>--> <a href="https://github.com/ssusnea/sds235-hw2"/>Learning Visual Analytics</a>
+                           
 
 <br/><br/>
 
@@ -17,7 +21,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=c,css,emacs,html,git,java,js,latex,ps,pr,py,ruby,sklearn,svg,tensorflow,w&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,css,emacs,figma,html,git,java,js,latex,ps,pr,py,p5js,react,svg,tensorflow,vscode,w&theme=light&perline=12" />
   </div>
 </div>
 <div>
@@ -26,7 +30,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=ae,ai,angular,autocad,blender,cpp,figma,rails,react,threejs&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,angular,arduino,autocad,blender,cpp,figma,rails,ruby,sklearn,threejs&theme=light&perline=13" />
   </div>
 </div>
 </p>
