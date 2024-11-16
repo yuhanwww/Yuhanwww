@@ -21,7 +21,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=c,css,emacs,figma,html,git,java,js,latex,ps,pr,py,p5js,react,svg,tensorflow,vscode,wordpress,w&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,css,emacs,figma,html,git,java,js,latex,ps,pr,py,p5js,react,svg,tensorflow,vscode,wordpress,w&theme=dark&perline=14" />
   </div>
 </div>
 <div>
@@ -30,7 +30,7 @@
 ---
   
   <div>
-    <img src="https://skillicons.dev/icons?i=ae,ai,angular,arduino,autocad,blender,cpp,figma,opencv,npm,rails,ruby,sklearn,threejs&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,angular,arduino,autocad,blender,cpp,figma,opencv,npm,rails,ruby,sklearn,threejs&theme=dark&perline=14" />
   </div>
 </div>
 </p>
