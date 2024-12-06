@@ -10,7 +10,7 @@
 <h3>What's up with me now?</h3>
 --> <a href="https://github.com/yuhanwww/open-access-is-great-but-where-are-the-images"/>Improve Access to Art History Open-source Dataset</a>               
 <br>--> <a href="https://github.com/yuhanwww/portfolio2.0"/>Updating my portfolio with React!</a>
-<br>--> <a href="https://github.com/ssusnea/sds235-hw2"/>Learning Visual Analytics</a>
+<br>--> <a href="https://github.com/ssusnea/sds235-fp"/>Learning Visual Analytics</a>
                            
 
 <br/><br/>
