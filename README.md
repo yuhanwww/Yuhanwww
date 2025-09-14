@@ -1,8 +1,8 @@
 <img width="800" src="name.svg">
 <h3> 👩‍💻Computer Science | 🖼️Art History | 🔨Maker | 🧶Art Creator </h3>
 
-<h5> I am currently a senior at Smith College. Feel free to reach out to say hi:))
-<a href="mailto:ywang70@smith.edu">  email</a> |  
+<h5> I am currently a 1st-year PhD at Georgia Tech. Feel free to reach out to say hi:))
+<a href="mailto:yuhan_wang@gatech.edu">  email</a> |  
 <a href="https://www.linkedin.com/in/yuhan-wang-yw/">linkedin</a> |
 <a href="https://www.instagram.com/yaaaarth/">instagram  </a></h5>
 
